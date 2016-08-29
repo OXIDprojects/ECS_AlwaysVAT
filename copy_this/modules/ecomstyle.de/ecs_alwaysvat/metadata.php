@@ -21,8 +21,7 @@ $aModule = array(
     'id'            => 'ecs_alwaysvat',
     'title'         => '<strong style="color:#04B431;">e</strong><strong>ComStyle.de</strong>:  <i>AlwaysVAT</i>',
     'description'   => array(
-                    'de' => 'Ist diese Modul aktiv, wird immer Umsatzsteuer berechnet.<br>Umsatzsteuerfreie Bestellungen gibt es nicht mehr.<br>ACHTUNG: F&uuml;r die Rechtssicherheit &uuml;bernehmen wir keine Verantwortung.<br>Der Einsatz dieses Moduls erfolgt auf eigene Gefahr!
-                    <br><iframe frameborder="no" width="600px" height="400px" src="https://ssl-account.com/incl.oxidtheme.de/gratis.html"></iframe>',
+                    'de' => 'Ist diese Modul aktiv, wird immer Umsatzsteuer berechnet.<br>Umsatzsteuerfreie Bestellungen gibt es nicht mehr.<br>ACHTUNG: F&uuml;r die Rechtssicherheit &uuml;bernehmen wir keine Verantwortung.<br>Der Einsatz dieses Moduls erfolgt auf eigene Gefahr!',
     ),
     'version'       => '1.1',
     'thumbnail'     => 'ecomstyle.png',
