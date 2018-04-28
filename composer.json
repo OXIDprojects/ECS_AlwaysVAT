@@ -1,0 +1,21 @@
+{
+    "name": "ecs/alwaysvat",
+    "description": "ECS AlwaysVat Module",
+    "type": "oxideshop-module",
+    "keywords": ["oxid", "modules", "eShop"],
+    "homepage": "https://ecomstyle.de/",
+    "version": "2.0.1",
+    "license": [
+        "GPL-3.0-only"
+    ],
+    "extra": {
+        "oxideshop": {
+            "target-directory": "ecs/AlwaysVat"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Ecs\\AlwaysVat\\": "../../../source/modules/ecs/AlwaysVat"
+        }
+    }
+}
